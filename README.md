@@ -4,4 +4,4 @@ Welcome to the **Snake Game**! This is a classic arcade game implemented using *
 
 You can play the game online at the following link:
 
-**[Play Snake Game](https://your-game-website.com)**
+**[Play Snake Game](https://varunrathi8432.github.io/SnakeGame)**
